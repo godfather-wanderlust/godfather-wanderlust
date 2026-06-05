@@ -109,38 +109,13 @@ Music fuels creativity and keeps me energized throughout my learning journey.
 
 ---
 
-🛠️ Current Focus
-
-I am currently focused on:
-
-- Expanding my programming knowledge
-- Learning advanced cybersecurity concepts
-- Exploring emerging technologies
-- Building practical projects
-- Strengthening technical and professional skills
-- Contributing to meaningful and innovative work
-
-Every project is an opportunity to learn something valuable and become better than yesterday.
-
----
-
 🤝 Let's Connect
 
-I enjoy connecting with like-minded professionals, developers, engineers, cybersecurity enthusiasts, and lifelong learners.
-
-If you share similar interests or would like to collaborate on exciting projects, feel free to reach out.
-
-Together, we can learn, innovate, and create meaningful solutions.
-
----
-
-💡 Personal Philosophy
-
-«"Stay curious, keep learning, embrace challenges, and never stop exploring."»
-
-Technology evolves every day, and so do the opportunities to learn, build, and make a positive impact. My goal is to continuously grow as an engineer, technologist, and lifelong learner while contributing to projects that inspire innovation and create value.
-
-Thank you for visiting my profile!
+I enjoy connecting with people who are passionate about technology, engineering, innovation, and lifelong learning.
+If you share similar interests or would like to collaborate on projects, feel free to reach out.
+Motto
+"Jack of all trades, master of some, always learning more." 🚀
+Thanks for visiting my profile!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GuKS9jbE) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_godfather_wanderlust_?igsh=MTBiZ2I1MmtuaXd3OQ==) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/7bbM7qb3A) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/godfather_wanderlust/) 
