@@ -69,3 +69,6 @@ Let’s connect if you’re into tech, engineering, innovation, or lifelong lear
 ---
 [![](https://komarev.com/ghpvc/?username=godfather-wanderlust&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/17d755cd23ed5e43738319a30e460cc2264deda6/Outro.mp4" alt="Wall-E GIF" style="width:auto; height:auto" />
+
+<img src="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/17d755cd23ed5e43738319a30e460cc2264deda6/Outro.mp4" width="100%" height="1" />
