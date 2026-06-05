@@ -1,6 +1,146 @@
 # 💫 About Me:
-🔹 Programmer | Cybersecurity Enthusiast | Explorer<br><br>I enjoy turning ideas into reality through code, exploring the world of cybersecurity, and learning something new every day. From software development to ethical hacking and beyond, I thrive on challenges and believe that versatility is a superpower.
+Hi there 👋, I'm Panther
 
+🚀 About Me
+
+I am a Civil Engineer with a strong passion for technology, programming, and cybersecurity. My professional background in engineering has taught me the importance of analytical thinking, problem-solving, and attention to detail, while my enthusiasm for technology continuously drives me to explore new domains and expand my skill set.
+
+I believe that learning is a lifelong journey. Whether it's understanding emerging technologies, experimenting with programming languages, exploring cybersecurity concepts, or discovering innovative engineering solutions, I am always eager to challenge myself and grow.
+
+My interests span across multiple disciplines, allowing me to approach problems from different perspectives. I enjoy bridging the gap between traditional engineering practices and modern digital technologies, combining technical knowledge with creativity to build efficient and impactful solutions.
+
+---
+
+🎯 Professional Background
+
+As a Civil Engineer, I have developed a solid foundation in:
+
+- Structural and infrastructure concepts
+- Engineering design principles
+- Technical documentation and reporting
+- Project planning and management
+- Problem-solving and analytical thinking
+- Research and continuous improvement
+
+Engineering has taught me to think systematically, evaluate alternatives, and create practical solutions for real-world challenges.
+
+---
+
+💻 Programming Enthusiast
+
+Beyond engineering, I am deeply interested in software development and programming. I enjoy learning new technologies, understanding how systems work, and building projects that improve my technical capabilities.
+
+Areas that interest me include:
+
+- Open Source Contributions
+- Scripting and Productivity Tools
+- Artificial Intelligence and Emerging Technologies
+
+Programming enables me to transform ideas into reality and continuously strengthen my problem-solving abilities.
+
+---
+
+🔐 Cyber Security Enthusiast
+
+Cybersecurity is one of the most fascinating fields in technology. I enjoy learning about digital security, ethical hacking methodologies, vulnerability assessment, and cybersecurity best practices.
+
+Topics I actively explore include:
+
+- Cyber Security Fundamentals
+- Ethical Hacking
+- Network Security
+- Information Security
+- Security Awareness
+- Digital Privacy
+- Security Research
+
+I believe cybersecurity awareness is essential in today's connected world, and I continuously work to improve my knowledge in this domain.
+
+---
+
+🌱 Continuous Learner
+
+One of my strongest beliefs is that there is always something new to learn.
+
+I actively invest time in:
+
+- Learning new technologies
+- Exploring innovative ideas
+- Reading technical articles
+- Experimenting with tools and frameworks
+- Developing new skills
+- Understanding emerging industry trends
+
+Curiosity drives my growth, and I enjoy stepping outside my comfort zone to discover new opportunities.
+
+---
+
+🌍 Explorer at Heart
+
+I enjoy exploring the world, experiencing different cultures, and discovering new places. Traveling and exploration help me gain fresh perspectives, understand diverse communities, and appreciate the vast possibilities that exist beyond my everyday environment.
+
+Exploration, whether physical or intellectual, is a significant part of who I am.
+
+---
+
+🎮 Gaming Enthusiast
+
+Gaming is one of my favorite hobbies and a great way to relax while sharpening strategic thinking and problem-solving skills.
+
+Through gaming, I enjoy:
+
+- Teamwork and collaboration
+- Strategy development
+- Competitive challenges
+- Creative storytelling
+- Learning from complex systems
+
+Games often inspire innovative thinking and provide unique perspectives on problem-solving.
+
+---
+
+🎵 Music Lover
+
+Music is a constant companion in my daily life.
+
+Whether I'm working, studying, coding, traveling, or simply relaxing, music helps me stay focused, motivated, and inspired. I enjoy discovering new artists, genres, and sounds from around the world.
+
+Music fuels creativity and keeps me energized throughout my learning journey.
+
+---
+
+🛠️ Current Focus
+
+I am currently focused on:
+
+- Expanding my programming knowledge
+- Learning advanced cybersecurity concepts
+- Exploring emerging technologies
+- Building practical projects
+- Strengthening technical and professional skills
+- Contributing to meaningful and innovative work
+
+Every project is an opportunity to learn something valuable and become better than yesterday.
+
+---
+
+🤝 Let's Connect
+
+I enjoy connecting with like-minded professionals, developers, engineers, cybersecurity enthusiasts, and lifelong learners.
+
+If you share similar interests or would like to collaborate on exciting projects, feel free to reach out.
+
+Together, we can learn, innovate, and create meaningful solutions.
+
+---
+
+💡 Personal Philosophy
+
+«"Stay curious, keep learning, embrace challenges, and never stop exploring."»
+
+Technology evolves every day, and so do the opportunities to learn, build, and make a positive impact. My goal is to continuously grow as an engineer, technologist, and lifelong learner while contributing to projects that inspire innovation and create value.
+
+Thank you for visiting my profile!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GuKS9jbE) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_godfather_wanderlust_?igsh=MTBiZ2I1MmtuaXd3OQ==) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/7bbM7qb3A) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/godfather_wanderlust/) 
