@@ -1,3 +1,30 @@
+<!-- Header Wave (Commented Out)
+<div align="center">
+  <a href="#">
+    <img 
+      width="100%" 
+      src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
+    />
+  </a>
+  <br>
+</div>
+-->
+
+<!-- Footer Wave (Commented Out)
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
+    width="100%" 
+  />
+</p>
+-->
+
+<!-- MasterHead -->
+<a href="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/79810b3376559bb2c01ecfefb2ae9fc8ff5cfe85/file_000000006fdc720ca7130b60cafb83b9.png">
+  <img width="100%" src="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/79810b3376559bb2c01ecfefb2ae9fc8ff5cfe85/file_000000006fdc720ca7130b60cafb83b9.png" alt="Fallout GIF"/>
+</a>
+
+
 # 💫 About Me:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Panther!!
 ==========================================================================================================================================
