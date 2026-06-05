@@ -1,121 +1,22 @@
 # 💫 About Me:
-Hi there 👋, I'm Panther
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Panther!!
+==========================================================================================================================================
 
-🚀 About Me
+Civil Engineer || Designer || Cyber-Security || Programming
+-----------------------------------------------------------
 
-I am a Civil Engineer with a strong passion for technology, programming, and cybersecurity. My professional background in engineering has taught me the importance of analytical thinking, problem-solving, and attention to detail, while my enthusiasm for technology continuously drives me to explore new domains and expand my skill set.
+A Civil Engineer by training, tech & cybersecurity explorer by passion.
 
-I believe that learning is a lifelong journey. Whether it's understanding emerging technologies, experimenting with programming languages, exploring cybersecurity concepts, or discovering innovative engineering solutions, I am always eager to challenge myself and grow.
+Engineering taught me to think systematically, solve real problems, and sweat the details. That mindset now drives how I build: bridging infrastructure + digital tech to create efficient, practical solutions.
 
-My interests span across multiple disciplines, allowing me to approach problems from different perspectives. I enjoy bridging the gap between traditional engineering practices and modern digital technologies, combining technical knowledge with creativity to build efficient and impactful solutions.
+I’m deep into programming — open source, scripting tools, AI, and turning ideas into working projects. Cybersecurity is my other playground: ethical hacking, network security, digital privacy, and staying ahead of threats in a connected world.
 
----
+Curiosity is my default mode. I’m always learning new tech, testing tools, reading up, and stepping outside my comfort zone. Off-screen, you’ll find me traveling, gaming strategy games, or with music on while I code.
 
-🎯 Professional Background
+Motto: Jack of all trades, master of some, always learning more.
 
-As a Civil Engineer, I have developed a solid foundation in:
+Let’s connect if you’re into tech, engineering, innovation, or lifelong learning.
 
-- Structural and infrastructure concepts
-- Engineering design principles
-- Technical documentation and reporting
-- Project planning and management
-- Problem-solving and analytical thinking
-- Research and continuous improvement
-
-Engineering has taught me to think systematically, evaluate alternatives, and create practical solutions for real-world challenges.
-
----
-
-💻 Programming Enthusiast
-
-Beyond engineering, I am deeply interested in software development and programming. I enjoy learning new technologies, understanding how systems work, and building projects that improve my technical capabilities.
-
-Areas that interest me include:
-
-- Open Source Contributions
-- Scripting and Productivity Tools
-- Artificial Intelligence and Emerging Technologies
-
-Programming enables me to transform ideas into reality and continuously strengthen my problem-solving abilities.
-
----
-
-🔐 Cyber Security Enthusiast
-
-Cybersecurity is one of the most fascinating fields in technology. I enjoy learning about digital security, ethical hacking methodologies, vulnerability assessment, and cybersecurity best practices.
-
-Topics I actively explore include:
-
-- Cyber Security Fundamentals
-- Ethical Hacking
-- Network Security
-- Information Security
-- Security Awareness
-- Digital Privacy
-- Security Research
-
-I believe cybersecurity awareness is essential in today's connected world, and I continuously work to improve my knowledge in this domain.
-
----
-
-🌱 Continuous Learner
-
-One of my strongest beliefs is that there is always something new to learn.
-
-I actively invest time in:
-
-- Learning new technologies
-- Exploring innovative ideas
-- Reading technical articles
-- Experimenting with tools and frameworks
-- Developing new skills
-- Understanding emerging industry trends
-
-Curiosity drives my growth, and I enjoy stepping outside my comfort zone to discover new opportunities.
-
----
-
-🌍 Explorer at Heart
-
-I enjoy exploring the world, experiencing different cultures, and discovering new places. Traveling and exploration help me gain fresh perspectives, understand diverse communities, and appreciate the vast possibilities that exist beyond my everyday environment.
-
-Exploration, whether physical or intellectual, is a significant part of who I am.
-
----
-
-🎮 Gaming Enthusiast
-
-Gaming is one of my favorite hobbies and a great way to relax while sharpening strategic thinking and problem-solving skills.
-
-Through gaming, I enjoy:
-
-- Teamwork and collaboration
-- Strategy development
-- Competitive challenges
-- Creative storytelling
-- Learning from complex systems
-
-Games often inspire innovative thinking and provide unique perspectives on problem-solving.
-
----
-
-🎵 Music Lover
-
-Music is a constant companion in my daily life.
-
-Whether I'm working, studying, coding, traveling, or simply relaxing, music helps me stay focused, motivated, and inspired. I enjoy discovering new artists, genres, and sounds from around the world.
-
-Music fuels creativity and keeps me energized throughout my learning journey.
-
----
-
-🤝 Let's Connect
-
-I enjoy connecting with people who are passionate about technology, engineering, innovation, and lifelong learning.
-If you share similar interests or would like to collaborate on projects, feel free to reach out.
-
-Motto: 
-"Jack of all trades, master of some, always learning more." 
 
 🚀 Thanks for visiting my profile!
 
