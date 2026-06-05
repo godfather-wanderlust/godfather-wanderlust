@@ -113,9 +113,11 @@ Music fuels creativity and keeps me energized throughout my learning journey.
 
 I enjoy connecting with people who are passionate about technology, engineering, innovation, and lifelong learning.
 If you share similar interests or would like to collaborate on projects, feel free to reach out.
-Motto
-"Jack of all trades, master of some, always learning more." 🚀
-Thanks for visiting my profile!
+
+Motto: 
+"Jack of all trades, master of some, always learning more." 
+
+🚀 Thanks for visiting my profile!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GuKS9jbE) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_godfather_wanderlust_?igsh=MTBiZ2I1MmtuaXd3OQ==) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/7bbM7qb3A) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/godfather_wanderlust/) 
