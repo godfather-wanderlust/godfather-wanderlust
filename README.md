@@ -20,8 +20,8 @@
 -->
 
 <!-- MasterHead -->
-<a href="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/79810b3376559bb2c01ecfefb2ae9fc8ff5cfe85/file_000000006fdc720ca7130b60cafb83b9.png">
-  <img width="100%" src="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/79810b3376559bb2c01ecfefb2ae9fc8ff5cfe85/file_000000006fdc720ca7130b60cafb83b9.png" alt="Fallout GIF"/>
+<a href="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/0c9031fc4b30ed26b68ccd8a012fb010c26fca41/file_00000000194471fd809170bc43e34c2e.png">
+  <img width="100%" src="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/0c9031fc4b30ed26b68ccd8a012fb010c26fca41/file_00000000194471fd809170bc43e34c2e.png" alt="Fallout GIF"/>
 </a>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Panther!!
