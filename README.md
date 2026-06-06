@@ -24,27 +24,6 @@
   <img width="100%" src="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/0c9031fc4b30ed26b68ccd8a012fb010c26fca41/file_00000000194471fd809170bc43e34c2e.png" alt="Fallout GIF"/>
 </a>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Panther!!
-==========================================================================================================================================
-
-Civil Engineer || Designer || Cyber-Security || Programming
------------------------------------------------------------
-
-A Civil Engineer by training, tech & cybersecurity explorer by passion.
-
-Engineering taught me to think systematically, solve real problems, and sweat the details. That mindset now drives how I build: bridging infrastructure + digital tech to create efficient, practical solutions.
-
-I’m deep into programming — open source, scripting tools, AI, and turning ideas into working projects. Cybersecurity is my other playground: ethical hacking, network security, digital privacy, and staying ahead of threats in a connected world.
-
-Curiosity is my default mode. I’m always learning new tech, testing tools, reading up, and stepping outside my comfort zone. Off-screen, you’ll find me traveling, gaming strategy games, or with music on while I code.
-
-Motto: Jack of all trades, master of some, always learning more.
-
-Let’s connect if you’re into tech, engineering, innovation, or lifelong learning.
-
-
-🚀 Thanks for visiting my profile!
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_godfather_wanderlust_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_godfather_wanderlust_?igsh=MTBiZ2I1MmtuaXd3OQ==) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/7bbM7qb3A) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/godfather_wanderlust/) 
 
