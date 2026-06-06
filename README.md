@@ -46,6 +46,6 @@
 ---
 [![](https://komarev.com/ghpvc/?username=godfather-wanderlust&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/01f569113bd7c3acdb68af05cb6641bf5ea12a6b/3b95bf1b8f01bb5c902b6ca053b613e0.jpg" style="width:auto; height:auto" />
+<img src="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/25e7af8af3f2f7c53a38b0df7a4fb3dc257613d2/file_000000006fdc720ca7130b60cafb83b9.png" style="width:auto; height:auto" />
 
-<img src="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/01f569113bd7c3acdb68af05cb6641bf5ea12a6b/3b95bf1b8f01bb5c902b6ca053b613e0.jpg" width="100%" height="1" />
+<img src="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/25e7af8af3f2f7c53a38b0df7a4fb3dc257613d2/file_000000006fdc720ca7130b60cafb83b9.png" width="100%" height="1" />
