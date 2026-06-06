@@ -67,6 +67,6 @@ Let’s connect if you’re into tech, engineering, innovation, or lifelong lear
 ---
 [![](https://komarev.com/ghpvc/?username=godfather-wanderlust&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/9384fd4805fa45e901d70fabf06b91b8ac5bcea8/39a3b2584ea862a1de23f10a8ddf2805.jpg" style="width:auto; height:auto" />
+<img src="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/01f569113bd7c3acdb68af05cb6641bf5ea12a6b/3b95bf1b8f01bb5c902b6ca053b613e0.jpg" style="width:auto; height:auto" />
 
-<img src="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/9384fd4805fa45e901d70fabf06b91b8ac5bcea8/39a3b2584ea862a1de23f10a8ddf2805.jpg" width="100%" height="1" />
+<img src="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/01f569113bd7c3acdb68af05cb6641bf5ea12a6b/3b95bf1b8f01bb5c902b6ca053b613e0.jpg" width="100%" height="1" />
