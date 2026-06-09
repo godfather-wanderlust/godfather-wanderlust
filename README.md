@@ -22,5 +22,3 @@
 ---
 [![](https://komarev.com/ghpvc/?username=godfather-wanderlust&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://github.com/godfather-wanderlust/godfather-wanderlust/blob/25e7af8af3f2f7c53a38b0df7a4fb3dc257613d2/file_000000006fdc720ca7130b60cafb83b9.png" style="width:auto; height:auto" />
-
